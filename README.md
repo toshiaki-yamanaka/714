@@ -1,2 +1,2 @@
 # 714
-SDE Course Project
+Course project paper for 625.714 Introductory Stochastic Differential Equations with Applications.
